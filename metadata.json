@@ -1,0 +1,5 @@
+{
+  "name": "Voidium Ai",
+  "description": "An emotionally intelligent voice companion that understands your mood and responds with empathy using Gemini Live API.",
+  "requestFramePermissions": ["microphone"]
+}
